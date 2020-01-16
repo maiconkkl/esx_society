@@ -35,3 +35,4 @@ Locales['br'] = {
   ['you_have_promoted']      = 'você promoveu %s a %s',
   ['you_have_been_promoted'] = 'você foi promovido ~b~promoted~s~!',
 }
+
